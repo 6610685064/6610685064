@@ -1,4 +1,11 @@
-## Hi there 👋
+## Name : Chatchat Seekram
+## Nickname : Night
+## ID : 6610685064
+## Age : 20 years old
+## Faculty : Computer Engineering
+## Contact
+## Phone : 091-761-1284
+## Gmail : 6610685064@student.tu.ac.th 👋
 
 <!--
 **6610685064/6610685064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
